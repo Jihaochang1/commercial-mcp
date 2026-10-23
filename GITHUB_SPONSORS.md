@@ -1,5 +1,9 @@
 # GitHub Sponsors 页面文案
 
+> **⚠️ 状态**: 已暂停 - 网络限制无法访问GitHub Sponsors页面
+
+---
+
 ## 关于我
 
 我是 **季浩昌**，一名 Python 开发者，专注于 MCP (Model Context Protocol) 服务器开发和企业自动化解决方案。
@@ -37,3 +41,7 @@
 ---
 
 *感谢你支持开源开发！* ❤️
+
+---
+
+**恢复步骤**: 当网络恢复正常后，访问 https://github.com/sponsors/Jihaochang1 激活页面
