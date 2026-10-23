@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "foodcalorie-mcp"
+version = "0.1.0"
+description = "MCP Server for Chinese food calorie and nutrition data"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=2,<3",
+    "httpx>=0.28.1",
+    "orjson>=3.11.9",
+    "pydantic>=2.13.4",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.0",
+    "ruff>=0.16.0",
+]
+
+[project.scripts]
+foodcalorie-mcp = "foodcalorie_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/foodcalorie_mcp"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "B", "I"]
