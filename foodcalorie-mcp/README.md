@@ -113,11 +113,26 @@ Apache-2.0
 
 欢迎 PR！请先 Fork 并创建特性分支。
 
-## 📞 联系
+## 📞 联系与支持
 
-- GitHub: [@Jihaochang](https://github.com/Jihaochang1)
-- Email: jihaochang1@github.com
+### 技术支持
+- **付费咨询服务**: ¥500-2000/小时（企业客户专享）
+- **定制开发**: ¥10,000-50,000/项目
+- **企业培训**: ¥1,000-2,000/人/天
+- 联系邮箱: jihaochang1@github.com
+
+### 赞助项目
+如果这个项目对你有帮助，欢迎赞助支持：
+- [GitHub Sponsors](https://github.com/sponsors/Jihaochang1) 💝
+- 或一次性捐赠: [Buy Me a Coffee](https://buymeacoffee.com/jihaochang) ☕
+
+### 商业合作
+- 企业定制部署: ¥20,000起
+- 私有化部署: ¥50,000起
+- 数据定制服务: 面议
 
 ---
 
 *让AI帮你吃得健康！* 🥗
+
+**⭐ 如果觉得有用，请给个 Star！你的支持是我持续维护的动力**
